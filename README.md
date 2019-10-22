@@ -2,6 +2,9 @@
 
 Ultralightweight JSON parser in ANSI C.
 
+改进: JSON语法错误, 或业务逻辑不正确时, 给出错误行号. 参考:
+https://www.yuque.com/zzqcn/ftvl2p/wu0kb5
+
 ## Table of contents
 * [License](#license)
 * [Usage](#usage)
